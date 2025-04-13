@@ -626,7 +626,7 @@ conf t
     codec g711ulaw
 !
   voice register pool 2
-    id mac 489d.d171.3d20
+    id mac 523e.a536.f825
     number 1 dn 2
     dtmf-relay sip-notify
     username 4254 password 4254   
